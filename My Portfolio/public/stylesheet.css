@@ -1,0 +1,37 @@
+body {
+    background-image: url("stars\ GIF.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: lavender;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: lavender;
+}
+
+h3 {
+    text-align: center;
+    color: lightgrey;
+}
+
+p {
+    color: lavender;
+    text-align: justify;
+
+}
+
+div {
+    padding: 5px;
+    margin: 80px;
+}
+
+
